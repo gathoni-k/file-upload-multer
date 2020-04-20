@@ -1,0 +1,32 @@
+{
+  "name": "file-upload-multer",
+  "version": "1.0.0",
+  "description": "Upload files using multer",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gathoni-k/file-upload-multer.git"
+  },
+  "keywords": [
+    "multerjs"
+  ],
+  "author": "gathoni-k",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "mz": "^2.7.0"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0",
+    "supertest": "^4.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/gathoni-k/file-upload-multer/issues"
+  },
+  "homepage": "https://github.com/gathoni-k/file-upload-multer#readme"
+}
